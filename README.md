@@ -5,13 +5,9 @@ Este repositório contém meus estudos iniciais com **JavaScript**, focando nos 
 ## 🧠 Conteúdo
 
 - Variáveis (`var`, `let`, `const`)
-- Tipos de dados
-- Operadores
-- Estruturas de decisão (`if`, `else`, `switch`)
-- Laços de repetição (`for`, `while`)
-- Funções
-- Arrays e Objetos básicos
-- Manipulação simples do DOM
-- Eventos básicos
+- Conversão de Tipos
+- Operações Aritmeticas
+- atribuição de Variaveis
+- Arrays 
 
 
