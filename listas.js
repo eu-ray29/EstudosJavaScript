@@ -14,3 +14,12 @@ listaDeDestinos.push(`Curitiba`); // adicionando um item na lista
 console.log('Destinos Possíveis:');
 console.log(listaDeDestinos);
 // console.log(salvador, saoPaulo, rioDeJaneiro);
+
+
+listaDeDestinos.splice(1,1);
+console.log(listaDeDestinos);
+
+
+
+console.log(listaDeDestinos[1], listaDeDestinos[0]);
+
