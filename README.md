@@ -4,10 +4,14 @@ Este repositório contém meus estudos iniciais com **JavaScript**, focando nos 
 
 ## 🧠 Conteúdo
 
-- Variáveis (`var`, `let`, `const`)
-- Conversão de Tipos
-- Operações Aritmeticas
+- Primeiro programa 
+- Trabalhando com variáveis
+- Operações Aritmeticas 
+- Conversão de tipos
 - atribuição de Variaveis
-- Arrays 
+- Listas
+- Condicionais
+- Loops
+- debug 
 
 
