@@ -23,3 +23,5 @@ console.log(listaDeDestinos);
 
 console.log(listaDeDestinos[1], listaDeDestinos[0]);
 
+
+//array literal - Um array literal é uma lista de zero ou mais expressões, onde cada uma delas represetam um elemente do array, inseridos entre colchetes ([]).

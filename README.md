@@ -5,13 +5,13 @@ Este repositório contém meus estudos iniciais com **JavaScript**, focando nos 
 ## 🧠 Conteúdo
 
 - Primeiro programa 
-- Trabalhando com variáveis
+- Trabalhando com variáveis 
 - Operações Aritmeticas 
 - Conversão de tipos
 - atribuição de Variaveis
 - Listas
 - Condicionais
-- Loops
+- Loops 
 - debug 
 
 

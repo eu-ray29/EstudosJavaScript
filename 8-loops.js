@@ -43,3 +43,14 @@ for( let i = 0;i < 3 ; i++ ) {
         destinoExiste = true; 
     }
 }
+
+// For - um laço for é repetido até que a condição especificada seja falsa.
+
+//do...While - a instrução do...while repetirá até que a condição especificada seja falsa.
+
+//While - uma declaração while executa suas intreuções, desde que uma condição especificada seja avalida como verdadeira.
+
+
+/* leitura
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Loops_and_iteration
+*/

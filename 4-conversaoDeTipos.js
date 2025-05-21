@@ -14,3 +14,17 @@ console.log('Raynara' / '2'); //NaN não é um número
 console.log(6.5);
 console.log(6,5);// no lugar da virgula aparecerá um espaço entre os números
 
+//Tipos de dados 
+
+// Boolean - true e false
+// null - valor nulo
+//undefined - valor indefinido 
+//Number - inteiros ou boleanos
+//string - 'texto' ou "texto"
+//symbol - Tipo de dado cuja instância são únicas e imutáveis.
+//Object
+
+
+/*Leitura: Documentação
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types
+*/

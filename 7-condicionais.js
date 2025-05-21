@@ -50,3 +50,7 @@ console.log(listaDeDestinos);
 
 
 
+//Declarações condicionais 
+// Uma declaração condicional é um conjunto de comandos que são executados caso uma condição especifica seja verdadeira.
+//if e else - if se verdadeiro else se não
+
